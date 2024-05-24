@@ -2,7 +2,7 @@ package com.microservice.product;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.microservice.product.dto.ProductRequest;
-import com.microservice.product.reponsitory.ProductReponsitory;
+import com.microservice.product.repository.ProductReponsitory;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,4 +1,4 @@
-package com.microservice.inventory.reponsitory;
+package com.microservice.inventory.repository;
 
 import com.microservice.inventory.model.Inventory;
 import org.springframework.data.jpa.repository.JpaRepository;

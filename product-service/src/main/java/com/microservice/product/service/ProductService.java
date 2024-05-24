@@ -4,7 +4,7 @@ package com.microservice.product.service;
 import com.microservice.product.dto.ProductRequest;
 import com.microservice.product.dto.ProductResponse;
 import com.microservice.product.model.Product;
-import com.microservice.product.reponsitory.ProductReponsitory;
+import com.microservice.product.repository.ProductReponsitory;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
