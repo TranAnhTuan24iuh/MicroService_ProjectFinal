@@ -7,64 +7,16 @@
         <list>
           <option value="inventory-service" />
           <option value="product-service" />
-          <option value="order-service" />
-          <option value="discovery-server" />
-          <option value="discovery-server" />
-          <option value="discovery-server" />
-          <option value="discovery-server" />
-          <option value="inventory-service" />
-          <option value="inventory-service" />
-          <option value="inventory-service" />
-          <option value="product-service" />
-          <option value="product-service" />
-          <option value="product-service" />
-          <option value="order-service" />
-          <option value="order-service" />
-          <option value="order-service" />
-          <option value="inventory-service" />
-          <option value="product-service" />
         </list>
       </option>
       <option name="ignoredPackages">
         <list>
           <option value="org.apache.commons:commons-compress:1.24.0" />
           <option value="org.apache.commons:commons-compress:1.24.0" />
-          <option value="org.apache.commons:commons-compress:1.24.0" />
-          <option value="com.google.guava:guava:19.0" />
-          <option value="com.thoughtworks.xstream:xstream:1.4.19" />
-          <option value="org.apache.httpcomponents:httpclient:4.5.3" />
-          <option value="org.apache.commons:commons-compress:1.24.0" />
-          <option value="com.google.guava:guava:19.0" />
-          <option value="com.thoughtworks.xstream:xstream:1.4.19" />
-          <option value="org.apache.httpcomponents:httpclient:4.5.3" />
-          <option value="com.google.guava:guava:19.0" />
-          <option value="com.thoughtworks.xstream:xstream:1.4.19" />
-          <option value="org.apache.httpcomponents:httpclient:4.5.3" />
-          <option value="com.google.guava:guava:19.0" />
-          <option value="com.thoughtworks.xstream:xstream:1.4.19" />
-          <option value="org.apache.httpcomponents:httpclient:4.5.3" />
-          <option value="com.fasterxml.woodstox:woodstox-core:6.2.1" />
-          <option value="com.fasterxml.woodstox:woodstox-core:6.2.1" />
         </list>
       </option>
       <option name="ignoredReasons">
         <list>
-          <option value="Not exploitable" />
-          <option value="Not exploitable" />
-          <option value="Not exploitable" />
-          <option value="Not exploitable" />
-          <option value="Not exploitable" />
-          <option value="Not exploitable" />
-          <option value="Not exploitable" />
-          <option value="Not exploitable" />
-          <option value="Not exploitable" />
-          <option value="Not exploitable" />
-          <option value="Not exploitable" />
-          <option value="Not exploitable" />
-          <option value="Not exploitable" />
-          <option value="Not exploitable" />
-          <option value="Not exploitable" />
-          <option value="Not exploitable" />
           <option value="Not exploitable" />
           <option value="Not exploitable" />
         </list>
